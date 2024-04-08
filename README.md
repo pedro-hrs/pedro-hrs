@@ -1,6 +1,6 @@
 # Olá
 
-"Oi, sou o Pedro Rodrigues.
+Oi, sou o Pedro Rodrigues 👋🏽
 
 Designer multidisciplinar apaixonado por criar experiências digitais excepcionais. Com mais de 9 anos de experiência em design gráfico, web design e UX/UI, atualmente sou Product Designer no Grupo Boticário. Graduado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Software e com um MBA em Desenvolvimento Web Front-end. Pronto para enfrentar novos desafios e continuar crescendo profissionalmente.
 
