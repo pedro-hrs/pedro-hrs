@@ -14,6 +14,7 @@ Um pouco do que sei..
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=NodeDotJs&logoColor=4FC08D)
   ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-Postgre%20SQL-333333?style=flat&logo=postgresql)
 
