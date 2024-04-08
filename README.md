@@ -1,6 +1,8 @@
 # Olá
 
-Me chamo Pedro Rodrigues, sou Desenvolvedor Front-End e UI Designer onde já tive a oportunidade de atuar em diversos projetos de desenvolvimento de software, sites, lojas virtuais e aplicativos. Acredito que o design é responsável por fazer diferença na vida das pessoas.
+"Oi, sou o Pedro Rodrigues.
+
+Designer multidisciplinar apaixonado por criar experiências digitais excepcionais. Com mais de 9 anos de experiência em design gráfico, web design e UX/UI, atualmente sou Product Designer no Grupo Boticário. Graduado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Software e com um MBA em Desenvolvimento Web Front-end. Pronto para enfrentar novos desafios e continuar crescendo profissionalmente.
 
 Um pouco do que sei.. 
 
